@@ -66,6 +66,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://en.d2l.ai/)**
 - **[Deep Learning Book](http://www.deeplearningbook.org/)**
 - **[Deep Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)**
+- **[Practical Deep Learning for Coders](https://course.fast.ai/)**
 
 ## :game_die: Statystyka z przymrużeniem oka
 - **[Certain about uncertainty – Maths is fun. And fun is maths!](https://paularowinska.wordpress.com/)**
