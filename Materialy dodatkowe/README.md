@@ -26,7 +26,9 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Warsztat - Python Data Science](https://github.com/MichalKorzycki/WarsztatPythonDataScience)**
 - **[Kaggle courses](https://www.kaggle.com/learn/overview)**
 - **[The Python Tutorial - Documentation](https://docs.python.org/3/tutorial/index.html)**
+- **[Python cheet sheets for data science](https://www.datacamp.com/community/data-science-cheatsheets)**
 - **[PyData Global conference](https://global.pydata.org)**
+
 
 
 ## :chart_with_upwards_trend: Ekonometria
