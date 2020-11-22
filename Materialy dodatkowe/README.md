@@ -58,6 +58,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow - repository](https://github.com/ageron/handson-ml2)**
 - **[Kaggle courses](https://www.kaggle.com/learn/overview)**
 - **[Machine Learning Study Groups](https://www.youtube.com/channel/UCMEQFEKrsRFBXnUIreTACxg)**
+- **[Best Public Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279?)**
+- **[Demystifying Artificial Intelligence and Machine Learning](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)**
 
 ## 🔮 Deep learning/Sieci neuronowe
 - **[The Neural Network Zoo - The Asimov Institute](https://www.asimovinstitute.org/neural-network-zoo/)**
