@@ -16,6 +16,10 @@ def prepare_image(inp):
     arr = np.array(image).reshape(1, 28, 28, 1)/255
     return arr
 
+@app.route("/")
+def hello():
+	return "This is Fashion MNIST prediction app. Use <b>/predict</b> endpoint with POST request e.g. <br><br> curl -X POST -F image=@example_input 'http://localhost:5000/predict'"
+
 @app.route("/predict", methods=["POST"])
 def predict():
 	data = {"success": False}
