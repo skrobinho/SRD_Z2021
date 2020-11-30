@@ -1,0 +1,6 @@
+keras
+flask
+numpy
+tensorflow
+requests
+h5py<3.0.0
