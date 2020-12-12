@@ -29,6 +29,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Software Engineering](https://www.youtube.com/c/programmingwithmosh/featured)**
 - **[Python cheet sheets for data science](https://www.datacamp.com/community/data-science-cheatsheets)**
 - **[PyData Global conference](https://global.pydata.org)**
+- **[Quantitative Economics with Python](https://python.quantecon.org/)**
+- **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
