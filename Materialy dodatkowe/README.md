@@ -30,6 +30,8 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Python cheet sheets for data science](https://www.datacamp.com/community/data-science-cheatsheets)**
 - **[PyData Global conference](https://global.pydata.org)**
 - **[Jupyter Notebook 101 - tutorial dla początkujących](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)**
+- **[Quantitative Economics with Python](https://python.quantecon.org/)**
+- **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
