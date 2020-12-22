@@ -18,6 +18,19 @@ Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README
 
 ### Wyniki konkursu
 
+**Grupa 2**
+
+| Zespół           | Miejsce   | Accuracy | Język  | Algorytm                |
+|------------------|-----------|----------|--------|-------------------------|
+| Kryst | 1 (5pkt)  | 86.80%   | Python      | Random Forest |
+| Samotny Amator           | 2 (4pkt)  | 86.66%   | Python      | Boosted Trees           |
+| Perła Eksport   | 3 (3 pkt) | 86.58%   | R | Boosted Trees (XGBoost)           |
+| Świąteczny Patrol           | 4 (2 pkt) | 86.56%   | Python      | Random Forest         |
+| DM Team      | 5 (1 pkt) | 86.42%   | Python      | Boosted Trees                    |
+| Ząbki       | 6 (0 pkt) | 85.34%   | R      | CART |
+| xD       | 7 (0 pkt) | 85.32%   | Python      | Boosted Trees (XGBoost) |
+| Cokolwiek123       | 8 (0 pkt) | 84.44%   | R      | Random Forest |
+
 **Grupa 3**
 
 | Zespół           | Miejsce   | Accuracy | Język  | Algorytm                |
@@ -28,3 +41,17 @@ Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README
 | Smoki            | 4 (2 pkt) | 86.04%   | R      | Boosted Trees ?         |
 | Ciepła Kosa      | 5 (1 pkt) | 86.00%   | R      | CART                    |
 | Dziki 2077       | 6 (0 pkt) | 85.94%   | R      | Boosted Trees (XGBoost) |
+
+**Grupa 4**
+
+| Zespół           | Miejsce   | Accuracy | Język  | Algorytm                |
+|------------------|-----------|----------|--------|-------------------------|
+| Kurdystan | 1 (5pkt)  | 86.90%   | Python      | Histogram-based Boosted Trees |
+| Kapitan Bomba           | 2 (4pkt)  | 86.84%   | Python      | Random Forest           |
+| Fioletowy Jednorożec     | 3 (3 pkt) | 86.52%   | Python | Random Forest           |
+| Smutny Pan            | 4 (2 pkt) | 85.52%   | R      | CART         |
+| Trzej Muszkieterowie      | 5 (1 pkt) | 56.96%   | Python      | Random Forest                    |
+
+Zespół _Trzej Muszkieterowie_ wysłał predykcję z 7400 obserwacjami, więc do wyliczenia accuracy wykorzystano pierwsze 5000 obserwacji. 
+
+
