@@ -32,6 +32,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Jupyter Notebook 101 - tutorial dla początkujących](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)**
 - **[Quantitative Economics with Python](https://python.quantecon.org/)**
 - **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)**
+- **[Web scraping with BeautifulSoup and Requests](https://youtu.be/ng2o98k983k)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
